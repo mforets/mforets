@@ -11,7 +11,7 @@ Born in Uruguay (Montevideo, 1988), I graduated in Physics from Univ. de la Rep√
 
 I'm a former post-doc researcher at VERIMAG laboratory of Universit√© Grenoble Alpes (2016-2017), a leading French research center in embedded systems that are used in diverse disciplines such as avionics/aeronautics, space, transport, automotive, telecommunications, smart cards and consumer electronics. As an Applied Mathematician, my research has to do with developing innovative numerical tools that impact decisions regarding **reliability, correctness and safety of systems.** I specialize on formal verification of **Cyber-Physical Systems (CPS)**, **hybrid** dynamical systems, and **robustness** analysis of neural networks. 
 
-**If you are interested to discuss, get in touch!** You can reach me at `mforets at gmail.com`.
+**If you are interested to discuss, get in touch!** You can reach me at [Gitter](https://gitter.im/JuliaReach/Lobby), [Discourse](http://discourse.julialang.org/), [Slack](https://julialang.org/slack/), [Zulip](https://julialang.zulipchat.com), or email me to `mforets at gmail.com`.
 
 ---
 
