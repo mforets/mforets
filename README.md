@@ -23,6 +23,12 @@ I'm one of the lead developers of [JuliaReach](https://github.com/JuliaReach/), 
 
 ![mforets's github stats](https://github-readme-stats.vercel.app/api?username=mforets&show_icons=true&theme=vue-dark)
 
+<!--
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mforets&hide=shell&exclude_repo=escritoire&theme=darcula&langs_count=8" />
+</a>
+-->
+
 ![Profile views](https://visitor-badge.glitch.me/badge?page_id=mforets.count_visitors)
 
 
