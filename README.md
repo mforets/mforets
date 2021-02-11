@@ -20,7 +20,7 @@ I'm one of the lead developers of [JuliaReach](https://github.com/JuliaReach/), 
 - For details on our ongoing projects, see http://github.com/JuliaReach
 - Visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag)
 
-<a href="http://github.com/JuliaReach" target="_blank"><img alt="JuliaReach" src="https://github.com/JuliaReach/JuliaReach-website/blob/master/logo/JuliaReach_ISOLOGO_horizontal.jpg?raw=true" /></a>
+<a href="http://github.com/JuliaReach" target="_blank"><img alt="JuliaReach" src="https://github.com/JuliaReach/JuliaReach-website/blob/master/images/logo/JuliaReach_ISOLOGO_horizontal.jpg?raw=true" /></a>
 
 ![mforets's github stats](https://github-readme-stats.vercel.app/api?username=mforets&show_icons=true&theme=vue-dark)
 
