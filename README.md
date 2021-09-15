@@ -15,7 +15,7 @@ I'm a former post-doc researcher at VERIMAG laboratory of Université Grenoble A
 
 ---
 
-I'm one of the lead developers of [JuliaReach](https://github.com/JuliaReach/), an open-source cutting-edge software toolbox for reachability computations of dynamical systems, with potential applications that range from correct-by-design tools, safety-critical critical systems, and  neural network controlled systems.
+I'm a lead developer of [JuliaReach](https://github.com/JuliaReach/), an open-source cutting-edge software toolbox for reachability computations of dynamical systems, with potential applications that range from correct-by-design tools, safety-critical critical systems, and  neural network controlled systems.
 
 - For details on our ongoing projects, see http://github.com/JuliaReach
 - Visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag)
