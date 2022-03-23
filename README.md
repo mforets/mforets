@@ -30,7 +30,6 @@ I'm a lead developer of [JuliaReach](https://github.com/JuliaReach/), an open-so
 </a>
 -->
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=mforets.count_visitors)
 
 
 <!--
