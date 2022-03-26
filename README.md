@@ -7,18 +7,29 @@
 
 ### Short bio
 
-Born in Uruguay (Montevideo, 1988), I graduated in Physics from Univ. de la República (Facultad de Ciencias), and in Electrical Engineering (Facultad de Ingeniería). I moved to France for a PhD in Mathematics and Informatics (Univ. Joseph Fourier, 2013-2015), writing a thesis on the quantum random walk, a mathematical model of particular interest in Quantum Computing.
+Born in Uruguay (Montevideo, 1988), I graduated in Physics from Univ. de la República (Facultad de Ciencias), and in Electrical Engineering (Facultad de Ingeniería). I moved to France for a PhD in Mathematics and Informatics (Univ. Joseph Fourier), writing a thesis on the quantum random walk, a mathematical model of particular interest in Quantum Computing, under the supervision of [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) and [Alain Joye](https://www-fourier.ujf-grenoble.fr/~joye/). 
 
-I'm a former post-doc researcher at VERIMAG laboratory of Université Grenoble Alpes (2016-2017), a leading French research center in embedded systems that are used in diverse disciplines such as avionics/aeronautics, space, transport, automotive, telecommunications, smart cards and consumer electronics. As an Applied Mathematician, my research has to do with developing innovative numerical tools that impact decisions regarding **reliability, correctness and safety of systems.** I specialize on formal verification of **Cyber-Physical Systems (CPS)**, **hybrid** dynamical systems, and **robustness** analysis of neural networks. 
+I'm a former post-doc researcher at VERIMAG laboratory of Université Grenoble Alpes (2016-2017) under the supervision of [Oded Maler](http://www-verimag.imag.fr/~maler/) and [Goran Frehse](https://sites.google.com/site/frehseg/). VERIMAG is a leading French research center in embedded systems, which include avionics/aeronautics, space, transport, automotive, telecommunications, smart cards and consumer electronics domains.
+
+### Interests
+
+I'm passionate about **Applied Mathematics**, **Mathematical Engineering** and **Modeling and Simulations**.
+  
+In particular, I focus on developing innovative numerical tools that impact decisions regarding *reliability, correctness and safety of systems.*  I specialize on formal verification of Cyber-Physical Systems (CPS), hybrid dynamical systems, correct-by-design systems, and robustness analysis of neural networks. Besides, I'm also interested in applied category theory for the engineering sciences.
+
+You can find a list of my publications [following this link](https://dblp.org/pid/183/2950.html).
+
+### Activities
+
+I belong to the leadership team of the [JuliaReach](https://github.com/JuliaReach/) research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach, and visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
+  
+I'm a software engineer at [PlantingSpace](https://planting.space/).
+
+### Contact
 
 You can chat with me in [Gitter](https://gitter.im/JuliaReach/Lobby), [Discourse](http://discourse.julialang.org/), [Slack](https://julialang.org/slack/), [Zulip](https://julialang.zulipchat.com). My email is `mforets at gmail.com`.
 
 ---
-
-I'm a lead developer of [JuliaReach](https://github.com/JuliaReach/), an open-source cutting-edge software toolbox for reachability computations of dynamical systems, with potential applications that range from correct-by-design tools, safety-critical critical systems, and  neural network controlled systems.
-
-- For details on our ongoing projects, see http://github.com/JuliaReach
-- Visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag)
 
 <a href="http://github.com/JuliaReach" target="_blank"><img alt="JuliaReach" src="https://github.com/JuliaReach/JuliaReach-website/blob/master/images/logo/JuliaReach_ISOLOGO_horizontal.jpg?raw=true" /></a>
 
