@@ -1,7 +1,7 @@
 ### Applied Mathematician | Software Engineer
 
 <p> <a href="https://www.linkedin.com/in/marcelo-forets-irurtia-7b8238149/
-" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/juliareach" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   <a href="https://gitter.im/JuliaReach/Lobby" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
 </p>
 
@@ -11,7 +11,7 @@ Born in Uruguay (Montevideo, 1988), I graduated in Physics from Univ. de la Rep√
 
 I'm a former post-doc researcher at VERIMAG laboratory of Universit√© Grenoble Alpes (2016-2017), a leading French research center in embedded systems that are used in diverse disciplines such as avionics/aeronautics, space, transport, automotive, telecommunications, smart cards and consumer electronics. As an Applied Mathematician, my research has to do with developing innovative numerical tools that impact decisions regarding **reliability, correctness and safety of systems.** I specialize on formal verification of **Cyber-Physical Systems (CPS)**, **hybrid** dynamical systems, and **robustness** analysis of neural networks. 
 
-**If you are interested to discuss, get in touch!** You can reach me at [Gitter](https://gitter.im/JuliaReach/Lobby), [Discourse](http://discourse.julialang.org/), [Slack](https://julialang.org/slack/), [Zulip](https://julialang.zulipchat.com), or email me to `mforets at gmail.com`.
+You can chat with me in [Gitter](https://gitter.im/JuliaReach/Lobby), [Discourse](http://discourse.julialang.org/), [Slack](https://julialang.org/slack/), [Zulip](https://julialang.zulipchat.com). My email is `mforets at gmail.com`.
 
 ---
 
@@ -21,6 +21,8 @@ I'm a lead developer of [JuliaReach](https://github.com/JuliaReach/), an open-so
 - Visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag)
 
 <a href="http://github.com/JuliaReach" target="_blank"><img alt="JuliaReach" src="https://github.com/JuliaReach/JuliaReach-website/blob/master/images/logo/JuliaReach_ISOLOGO_horizontal.jpg?raw=true" /></a>
+
+</a> <a href="https://twitter.com/juliareach" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 ![mforets's github stats](https://github-readme-stats.vercel.app/api?username=mforets&show_icons=true&theme=vue-dark)
 
