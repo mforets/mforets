@@ -7,10 +7,10 @@
 
 ### Activities
 
-I'm a member [JuliaReach](https://github.com/JuliaReach/), a research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach, and visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
-  
 I'm a software engineer at [PlantingSpace](https://planting.space/).
 
+I'm also a member of [JuliaReach](https://github.com/JuliaReach/), a research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach, and visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
+  
 ### Short bio
 
 Born in Uruguay (Montevideo, 1988), I graduated in Physics from Univ. de la República (Facultad de Ciencias), and in Electrical Engineering (Facultad de Ingeniería). I moved to France for a PhD in Mathematics and Informatics (Univ. Joseph Fourier), writing a thesis on the quantum random walk, a mathematical model of particular interest in Quantum Computing, under the supervision of [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) and [Alain Joye](https://www-fourier.ujf-grenoble.fr/~joye/). 
