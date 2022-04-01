@@ -5,6 +5,12 @@
   <a href="https://gitter.im/JuliaReach/Lobby" target="_blank"><img alt="Gitter" src="https://img.shields.io/gitter/room/JuliaReach/Lobby?style=for-the-badge&logo=gitter&logoColor=white" /></a>
 </p>
 
+### Activities
+
+I belong to the leadership team of the [JuliaReach](https://github.com/JuliaReach/) research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach, and visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
+  
+I'm a software engineer at [PlantingSpace](https://planting.space/).
+
 ### Short bio
 
 Born in Uruguay (Montevideo, 1988), I graduated in Physics from Univ. de la República (Facultad de Ciencias), and in Electrical Engineering (Facultad de Ingeniería). I moved to France for a PhD in Mathematics and Informatics (Univ. Joseph Fourier), writing a thesis on the quantum random walk, a mathematical model of particular interest in Quantum Computing, under the supervision of [Pablo Arrighi](https://lmf.cnrs.fr/Perso/PabloArrighi) and [Alain Joye](https://www-fourier.ujf-grenoble.fr/~joye/). 
@@ -18,12 +24,6 @@ I'm passionate about **Applied Mathematics**, **Mathematical Engineering** and *
 In particular, I focus on developing innovative numerical tools that impact decisions regarding *reliability, correctness and safety of systems.*  I specialize on formal verification of Cyber-Physical Systems (CPS), hybrid dynamical systems, correct-by-design systems, and robustness analysis of neural networks. Besides, I'm also interested in applied category theory for the engineering sciences.
 
 You can find a list of my publications [following this link](https://dblp.org/pid/183/2950.html).
-
-### Activities
-
-I belong to the leadership team of the [JuliaReach](https://github.com/JuliaReach/) research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach, and visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
-  
-I'm a software engineer at [PlantingSpace](https://planting.space/).
 
 ### Contact
 
