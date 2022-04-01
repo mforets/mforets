@@ -9,7 +9,7 @@
 
 I'm a software engineer at [PlantingSpace](https://planting.space/).
 
-I'm also a member of [JuliaReach](https://github.com/JuliaReach/), a research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach, and visit our [youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
+I'm also a member of [JuliaReach](https://github.com/JuliaReach/), a research group and open-source software organization. For details on our ongoing projects, see http://github.com/JuliaReach. Recent activities can also be found in the [JuliaReach youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
   
 ### Short bio
 
