@@ -7,7 +7,7 @@
 
 ### Activities
 
-- Software Engineer at [PlantingSpace](https://planting.space/).
+- Team member at [PlantingSpace](https://planting.space/) | Software Engineering | Symbolic - Numeric Computation.
 
 - Founding member of the [JuliaReach](https://github.com/JuliaReach/) open-source software organization and research group. For details on our ongoing projects, see http://github.com/JuliaReach. Recent activities can also be found in the [JuliaReach youtube channel](https://www.youtube.com/channel/UC3TeyA4O5IX0lCpdfrvmKag).
   
